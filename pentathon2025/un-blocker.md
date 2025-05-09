@@ -1,6 +1,6 @@
 
 ---
-## Pentathon 2025 CTF – Un-Blocker \[Easy] \[Web] Write-Up
+## Pentathon 2025 CTF – Un-Blocker Write-Up
 
 **Challenge Name:** Un-Blocker
 **Category:** Web
