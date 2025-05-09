@@ -14,7 +14,7 @@
 
 ### Challenge Description
 
-You're given a minimal website that claims to "Unblock Websites" by acting as a proxy. It takes a URL input, fetches the content, and renders the response inside an iframe.
+We are given a minimal website that claims to "Unblock Websites" by acting as a proxy. It takes a URL input, fetches the content, and renders the response inside an iframe.
 
 The frontend HTML reveals the following details:
 
